@@ -16,18 +16,28 @@ Date: 2022.11.10
 
 ------
 Binary Tree DFS Traversal three methods: pre-order, in-order, post-order
+
 Principle: 
+
 94 https://leetcode.com/problems/binary-tree-inorder-traversal/
+
 144 https://leetcode.com/problems/binary-tree-preorder-traversal/
+
 145 https://leetcode.com/problems/binary-tree-postorder-traversal/
 
 ------
 少部分用BFS做比较方便的题：
+
 314 https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/
+
 107 https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
+
 103 https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+
 102 https://leetcode.com/problems/binary-tree-level-order-traversal/
+
 116 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+
 637 https://leetcode.com/problems/average-of-levels-in-binary-tree/
 
 总结来说就是遇到level traversal的需求 以及涉及到相对位置（“坐标”）的题
